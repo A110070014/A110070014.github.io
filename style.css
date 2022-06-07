@@ -1,24 +1,30 @@
 body {
 	background-color: rgb(156, 151, 151);
 }
-.navigation ul{
+.navigation ul {
     text-align: center;
     background-color: #e4b382;
-    margin: 0;
-    padding: 4px;
+    margin:0 auto;
+    width:700px;
+    padding:20px;
 }
-.navigation ul li{
+.navigation ul li {
     list-style-type: none;
     display: inline;
 }
-.navigation ul li a{
+.navigation ul li a {
     color: #000000
 }
-.navigation ul li a:hover{
+.navigation ul li a:hover {
     color:brown
 }
-.mainvisual img{
-    display:inline;
+.mainvisual img {
+    display:block;
+    margin:auto;
+    padding:1cm;
+}
+.mainvisual ol li{
+    text-align:center
 }
 h1 { 
     font-size: 30px; 
@@ -26,6 +32,6 @@ h1 {
     text-align: center;
 }
 h2 { 
-    font-size: 23px; color: block;
+    font-size: 23px; color: black;
     text-align: center;
 }
