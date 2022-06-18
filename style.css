@@ -1,9 +1,9 @@
 body {
-	background-color: rgb(156, 151, 151);
+	background-color: #b0c4de;
 }
 .navigation ul {
     text-align: center;
-    background-color: #e4b382;
+    background-color: #e6e6fa;
     margin:0 auto;
     width:700px;
     padding:20px;
@@ -32,6 +32,6 @@ h1 {
     text-align: center;
 }
 h2 { 
-    font-size: 23px; color: black;
+    color: black;
     text-align: center;
 }
